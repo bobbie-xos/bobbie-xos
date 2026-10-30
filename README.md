@@ -8,8 +8,7 @@ I build scalable full-stack web architectures, cross-platform mobile application
 
 ### 🚀 What I'm Working On
 
-* 💼 **Workvizz** — An end-to-end HR software platform built with **Java Spring Boot** and **Next.js**.
-* 🎬 **Knot AI** — An AI-powered video tool built with **FastAPI** to repurpose long-form video content into short clips.
+* 💼 **Vizzy** — An end-to-end HR software platform built with **Java Spring Boot** and **Next.js**.
 * 📱 **Sortie** — A smart mobile spending comparison app built with **Flutter**.
 * 💡 **Micro-SaaS** — Constantly shipping, experimenting, and exploring new SaaS concepts.
 
