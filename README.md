@@ -1,6 +1,6 @@
 # Hi there, I'm Chenter PHAI! 👋
 
-### 🛠️ Software Engineer | Solution Architect | Micro-SaaS Builder
+### 🛠️ Software Engineer | Freelancer | Micro-SaaS Builder
 
 I build scalable full-stack web architectures, cross-platform mobile applications, and backend systems. Passionate about developer workflows, DevOps automation, and turning ideas into impactful products.
 
@@ -8,8 +8,9 @@ I build scalable full-stack web architectures, cross-platform mobile application
 
 ### 🚀 What I'm Working On
 
-* 💼 **Vizzy** — An end-to-end HR software platform built with **Java Spring Boot** and **Next.js**.
+* 💼 **Vizzy** — An end-to-end HR software platform built with **Express.js** and **Next.js**.
 * 📱 **Sortie** — A smart mobile spending comparison app built with **Flutter**.
+* 📱 **Konnix** - A  Flutter app for staff drivers, covering sign-in and driver workflows such as shifts, vehicle checks, and verification. It currently uses seeded demo data while backend integration is in progress.
 * 💡 **Micro-SaaS** — Constantly shipping, experimenting, and exploring new SaaS concepts.
 
 ---
