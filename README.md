@@ -1,4 +1,4 @@
-# Hi there, I'm Chenter PHAI! 👋
+# Hi there, It's Bobbie! 👋
 
 ### 🛠️ Software Engineer | Freelancer | Micro-SaaS Builder
 
